@@ -6,7 +6,7 @@
 # separate terms of service, privacy policy, and support
 # documentation.
 
-name: payment-service CICD with Maven
+name: payment-service CI with Maven
 
 on:
   push:
